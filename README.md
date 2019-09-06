@@ -1,1 +1,4 @@
-# debate_economia
+# Debate "La campaña presidencial y sus referentes económicos"
+
+> >  En el aula magna de la Facultad de Ciencias Económicas y de Administración (FCEA), los referentes de economía de los partidos con representación parlamentaria participaron en una charla organizada por la fundación alemana Konrad Adenauer y la Sociedad de Economistas del Uruguay. Al evento, llamado “La campaña presidencial y sus referentes económicos”, asistieron Fernando Isabella (Frente Amplio, FA), Azucena Arbeleche (Partido Nacional, PN), Luis Freda (Unidad Popular, UP), Marcel Vaillant (Partido Independiente, PI) y Ana Inés Zerbino (Partido Colorado, PC).                                                                                                                      — [la diaria](https://ladiaria.com.uy/articulo/2019/9/asesores-en-economia-participaron-en-un-intercambio-en-la-facultad-de-ciencias-economicas/) 
+
